@@ -1,0 +1,32 @@
+.userlist{
+    float : left;
+    margin-top: 50px;
+    margin-left: 10px;
+    border: 2px solid black;
+    width: 30%;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.list-group-item{
+    background-color: rgb(198, 196, 196);
+}
+
+.list-group-item:hover{
+    background-color: crimson;
+    color: white;
+}
+
+.userdetail{
+    margin-top: 50px;
+    border: 2px solid black;
+    /* margin-left: 40px; */
+    width: 65%;
+    padding: 30px;
+    background-color: rgb(181, 133, 236);
+}
+/* .user-details-container{
+    margin-left: 400px;
+} */
